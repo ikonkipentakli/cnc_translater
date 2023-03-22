@@ -36,7 +36,7 @@ if 'CYCLE' in cycle:    #Если введен цикл Siemens
     p8 = cycle[8]
     p9 = cycle[9]
    
-    #Ввод переменных 
+    #Объявление переменных 
     g_cycle =0
     axis = 0
     g_axis = 0
